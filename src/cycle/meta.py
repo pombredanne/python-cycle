@@ -25,7 +25,7 @@ __all__ = (
 
 __title__ = "cycle"
 __summary__ = "A Python software build management tool inspired by Maven"
-__uri__ = "https://github.com/refnode/cylce"
+__uri__ = "https://github.com/refnode/cycle"
 
 __version__ = "0.1.0"
 
