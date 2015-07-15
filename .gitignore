@@ -57,6 +57,7 @@ docs/_build/
 target/
 
 # Eclipse PyDev
-# .project
-# .pydevproject
-# .settings/
+.project
+.pydevproject
+.settings/
+snippets/
